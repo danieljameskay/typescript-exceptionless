@@ -1,7 +1,7 @@
 {
   "name": "typescript-exceptionless",
-  "version": "0.0.1",
-  "description": "TypeScript wrapper for Exceptionless.",
+  "version": "0.0.3",
+  "description": "TypeScript helper library for Exceptionless.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
